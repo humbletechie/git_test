@@ -1,3 +1,2 @@
 # git_test
-An example repo
-This is a test repo created to check github and git features
+An example repo created to check git and jenkins features
